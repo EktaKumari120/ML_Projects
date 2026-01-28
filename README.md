@@ -1,3 +1,2 @@
 # ML_Projects
-10 Machine Learning Projects in 10 Days. 
-Day 1 
+This repository documents my machine learning learning journey. Each project starts from a YouTube tutorial and is extended with my own ideas, experiments, and improvements.
