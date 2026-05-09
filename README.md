@@ -8,6 +8,7 @@ This repository documents my machine learning learning journey. My goal is to bu
 | 01 | [Titanic EDA](./30%20projects/01_Titanic_eda/) | Analyze passenger data to identify key factors that influenced survival rates. | Python, Pandas,Matplotlib, Seaborn | ✅ |
 | 02 | [Sales Dashboard](./30%20projects/02_Sales_Dashboard/) | Build an interactive dashboard to track revenue, units sold, and regional performance. | Python, Streamlit, Pandas, Numpy, Plotly | ✅ |
 | 03 | [Movie Analysis](./30%20projects/03_Movie/) | Perform deep-dive analysis on film industry data, calculating ROI percentages, budget-to-revenue correlations, and genre-specific IMDb rating distributions. | Python, SQLite, Pandas, Matplotlib | ✅ |
+| 04 | [Weather Dashboard](./30%20projects/04_weather_dashboard/) | Build an interactive dashboard to forcast weather temperature using OpenWeatherMap API.| Python, Streamlit, Plotly, Pandas| ✅ |
 ---
 
 ## 🛠️ Tech Stack
