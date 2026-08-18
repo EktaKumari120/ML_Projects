@@ -8,14 +8,18 @@ import warnings
 plt.style.use('dark_background')
 warnings.filterwarnings('ignore')
 
-lr_model = joblib.load('lr_model.pkl')
-rfc_model = joblib.load('rfc_model.pkl')
-scaler = joblib.load('scaler.pkl')
-feature_names = joblib.load('feature_names.pkl')
+import os
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+lr_model = joblib.load(os.path.join(BASE_DIR, 'lr_model.pkl'))
+rfc_model = joblib.load(os.path.join(BASE_DIR, 'rfc_model.pkl'))
+scaler = joblib.load(os.path.join(BASE_DIR, 'scaler.pkl'))
+feature_names = joblib.load(os.path.join(BASE_DIR, 'feature_names.pkl'))
 
 @st.cache_data
 def load_data():
-    return pd.read_csv('./data/telco_customer_churn.csv')
+    path = os.path.join(BASE_DIR, 'data', 'telco_customer_churn.csv')
+    return pd.read_csv(path)
 
 st.set_page_config(page_title='Customer Churn Prediction', page_icon='📉', layout='wide')
 
