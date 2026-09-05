@@ -13,8 +13,8 @@ This repository documents my machine learning learning journey. My goal is to bu
 | 06 | [Personal Finance Tracker](./30%20projects/06_Personal_Finance_Tracker/) | Built a Personal Finance Tracker to keep track of the money wisely.| Python, Streamlit, SQLite, SQLAlchemy, Plotly| ✅ |
 | 07 | [News Sentiment](./30%20projects/07_News_Sentiment/) | A Python/Streamlit dashboard that fetches live NewsAPI headlines, analyzes sentiment using VADER NLP, and stores data in SQLite, visualizing trends via Plotly charts and word clouds.| Python Streamlit NLTK VADER NewsAPI SQLite SQLAlchemy Plotly WordCloud Pandas| ✅ |
 | 08 | [Stock Price Dashboard](./30%20projects/08_Stock_Price_Dashboard/) | Built a Stock Price Dashboard using yfinance xgboost python streamlit that analyses historical price patterns and predicts the closing price.| Python Streamlit Plotly Pandas NumPy scikit-learn XGBoost yfinance | ✅ |
-| 09 | [Customer Churn Prediction](./30%20projects/09_Customer_Churn_Prediction/) | Built a Customer Churn Prediction app to identify telecom customers likely to leave using ML and an interactive Streamlit dashboard. | Python, Streamlit, Scikit-learn, Pandas, Matplotlib, Seaborn, Joblib | ✅ |
-
+| 09 | [Customer Churn Prediction](./30%20projects/09_telco_customer_churn/) | Built a Customer Churn Prediction app to identify telecom customers likely to leave using ML and an interactive Streamlit dashboard. | Python, Streamlit, Scikit-learn, Pandas, Matplotlib, Seaborn, Joblib | ✅ |
+| 10 | [Customer Segmentation](./30%20projects/10_Customer_Segmentation/) | Segmented mall customers into distinct groups using K-Means clustering to enable targeted marketing strategies based on income and spending behavior. | Python, Scikit-learn, Pandas, Matplotlib, Seaborn | ✅ |
 ---
 
 ## 🛠️ Tech Stack
