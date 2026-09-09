@@ -15,6 +15,7 @@ This repository documents my machine learning learning journey. My goal is to bu
 | 08 | [Stock Price Dashboard](./30%20projects/08_Stock_Price_Dashboard/) | Built a Stock Price Dashboard using yfinance xgboost python streamlit that analyses historical price patterns and predicts the closing price.| Python Streamlit Plotly Pandas NumPy scikit-learn XGBoost yfinance | ✅ |
 | 09 | [Customer Churn Prediction](./30%20projects/09_telco_customer_churn/) | Built a Customer Churn Prediction app to identify telecom customers likely to leave using ML and an interactive Streamlit dashboard. | Python, Streamlit, Scikit-learn, Pandas, Matplotlib, Seaborn, Joblib | ✅ |
 | 10 | [Customer Segmentation](./30%20projects/10_Customer_Segmentation/) | Segmented mall customers into distinct groups using K-Means clustering to enable targeted marketing strategies based on income and spending behavior. | Python, Scikit-learn, Pandas, Matplotlib, Seaborn | ✅ |
+| 11 | [Wholesale Customer Segmentation](./30%20projects/11_Wholesale_Customer_Segmentation/) | Segmented wholesale distributor clients using PCA and K-Means on multi-category spending data, validated against real Channel and Region labels. | Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn | ✅ |
 ---
 
 ## 🛠️ Tech Stack
