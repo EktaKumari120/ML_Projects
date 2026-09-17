@@ -5,17 +5,17 @@ This repository documents my machine learning learning journey. My goal is to bu
 ## 🚀 The 30 Projects Tracker
 | No. | Project Name | Goal | Tech Used | Status |
 |:---:|:---|:---|:---|:---:|
-| 01 | [Titanic EDA](./30%20projects/01_Titanic_eda/) | Analyze passenger data to identify key factors that influenced survival rates. | Python, Pandas,Matplotlib, Seaborn | ✅ |
-| 02 | [Sales Dashboard](./30%20projects/02_Sales_Dashboard/) | Build an interactive dashboard to track revenue, units sold, and regional performance. | Python, Streamlit, Pandas, Numpy, Plotly | ✅ |
-| 03 | [Movie Analysis](./30%20projects/03_Movie/) | Perform deep-dive analysis on film industry data, calculating ROI percentages, budget-to-revenue correlations, and genre-specific IMDb rating distributions. | Python, SQLite, Pandas, Matplotlib | ✅ |
-| 04 | [Weather Dashboard](./30%20projects/04_weather_dashboard/) | Build an interactive dashboard to forcast weather temperature using OpenWeatherMap API.| Python, Streamlit, Plotly, Pandas| ✅ |
-| 05 | [Student Performance Predictor](./30%20projects/05_Student_Performance_Predictor/) | Built a Student Score Predictor using Python & Streamlit.| Python, Streamlit, Scikit-learn, Matplotlib, Numpy, Pandas, Joblib| ✅ |
-| 06 | [Personal Finance Tracker](./30%20projects/06_Personal_Finance_Tracker/) | Built a Personal Finance Tracker to keep track of the money wisely.| Python, Streamlit, SQLite, SQLAlchemy, Plotly| ✅ |
-| 07 | [News Sentiment](./30%20projects/07_News_Sentiment/) | A Python/Streamlit dashboard that fetches live NewsAPI headlines, analyzes sentiment using VADER NLP, and stores data in SQLite, visualizing trends via Plotly charts and word clouds.| Python Streamlit NLTK VADER NewsAPI SQLite SQLAlchemy Plotly WordCloud Pandas| ✅ |
-| 08 | [Stock Price Dashboard](./30%20projects/08_Stock_Price_Dashboard/) | Built a Stock Price Dashboard using yfinance xgboost python streamlit that analyses historical price patterns and predicts the closing price.| Python Streamlit Plotly Pandas NumPy scikit-learn XGBoost yfinance | ✅ |
-| 09 | [Customer Churn Prediction](./30%20projects/09_telco_customer_churn/) | Built a Customer Churn Prediction app to identify telecom customers likely to leave using ML and an interactive Streamlit dashboard. | Python, Streamlit, Scikit-learn, Pandas, Matplotlib, Seaborn, Joblib | ✅ |
-| 10 | [Customer Segmentation](./30%20projects/10_Customer_Segmentation/) | Segmented mall customers into distinct groups using K-Means clustering to enable targeted marketing strategies based on income and spending behavior. | Python, Scikit-learn, Pandas, Matplotlib, Seaborn | ✅ |
-| 11 | [Wholesale Customer Segmentation](./30%20projects/11_Wholesale_Customer_Segmentation/) | Segmented wholesale distributor clients using PCA and K-Means on multi-category spending data, validated against real Channel and Region labels. | Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn | ✅ |
+| 01 | [Titanic EDA](./01_Titanic_eda/) | Analyze passenger data to identify key factors that influenced survival rates. | Python, Pandas,Matplotlib, Seaborn | ✅ |
+| 02 | [Sales Dashboard](./02_Sales_Dashboard/) | Build an interactive dashboard to track revenue, units sold, and regional performance. | Python, Streamlit, Pandas, Numpy, Plotly | ✅ |
+| 03 | [Movie Analysis](./03_Movie/) | Perform deep-dive analysis on film industry data, calculating ROI percentages, budget-to-revenue correlations, and genre-specific IMDb rating distributions. | Python, SQLite, Pandas, Matplotlib | ✅ |
+| 04 | [Weather Dashboard](./04_weather_dashboard/) | Build an interactive dashboard to forcast weather temperature using OpenWeatherMap API.| Python, Streamlit, Plotly, Pandas| ✅ |
+| 05 | [Student Performance Predictor](./05_Student_Performance_Predictor/) | Built a Student Score Predictor using Python & Streamlit.| Python, Streamlit, Scikit-learn, Matplotlib, Numpy, Pandas, Joblib| ✅ |
+| 06 | [Personal Finance Tracker](./06_Personal_Finance_Tracker/) | Built a Personal Finance Tracker to keep track of the money wisely.| Python, Streamlit, SQLite, SQLAlchemy, Plotly| ✅ |
+| 07 | [News Sentiment](./07_News_Sentiment/) | A Python/Streamlit dashboard that fetches live NewsAPI headlines, analyzes sentiment using VADER NLP, and stores data in SQLite, visualizing trends via Plotly charts and word clouds.| Python Streamlit NLTK VADER NewsAPI SQLite SQLAlchemy Plotly WordCloud Pandas| ✅ |
+| 08 | [Stock Price Dashboard](./08_Stock_Price_Dashboard/) | Built a Stock Price Dashboard using yfinance xgboost python streamlit that analyses historical price patterns and predicts the closing price.| Python Streamlit Plotly Pandas NumPy scikit-learn XGBoost yfinance | ✅ |
+| 09 | [Customer Churn Prediction](./09_telco_customer_churn/) | Built a Customer Churn Prediction app to identify telecom customers likely to leave using ML and an interactive Streamlit dashboard. | Python, Streamlit, Scikit-learn, Pandas, Matplotlib, Seaborn, Joblib | ✅ |
+| 10 | [Customer Segmentation](./10_Customer_Segmentation/) | Segmented mall customers into distinct groups using K-Means clustering to enable targeted marketing strategies based on income and spending behavior. | Python, Scikit-learn, Pandas, Matplotlib, Seaborn | ✅ |
+| 11 | [Wholesale Customer Segmentation](./11_Wholesale_Customer_Segmentation/) | Segmented wholesale distributor clients using PCA and K-Means on multi-category spending data, validated against real Channel and Region labels. | Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn | ✅ |
 ---
 
 ## 🛠️ Tech Stack
