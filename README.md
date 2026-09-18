@@ -16,6 +16,7 @@ This repository documents my machine learning learning journey. My goal is to bu
 | 09 | [Customer Churn Prediction](./09_telco_customer_churn/) | Built a Customer Churn Prediction app to identify telecom customers likely to leave using ML and an interactive Streamlit dashboard. | Python, Streamlit, Scikit-learn, Pandas, Matplotlib, Seaborn, Joblib | ✅ |
 | 10 | [Customer Segmentation](./10_Customer_Segmentation/) | Segmented mall customers into distinct groups using K-Means clustering to enable targeted marketing strategies based on income and spending behavior. | Python, Scikit-learn, Pandas, Matplotlib, Seaborn | ✅ |
 | 11 | [Wholesale Customer Segmentation](./11_Wholesale_Customer_Segmentation/) | Segmented wholesale distributor clients using PCA and K-Means on multi-category spending data, validated against real Channel and Region labels. | Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn | ✅ |
+| 12 | [Credit Card Fraud Detection](./12_Credit_Card_Fraud_Detection/) | Detected rare fraud cases (0.17% of transactions) using ensemble modeling and imbalance-handling techniques, achieving F1=0.86 with a weighted Voting Ensemble. | Python, Scikit-learn, XGBoost, LightGBM, imbalanced-learn, Pandas, Seaborn | ✅ |
 ---
 
 ## 🛠️ Tech Stack
