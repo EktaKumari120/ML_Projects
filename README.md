@@ -18,6 +18,7 @@ This repository documents my machine learning learning journey. My goal is to bu
 | 11 | [Wholesale Customer Segmentation](./11_Wholesale_Customer_Segmentation/) | Segmented wholesale distributor clients using PCA and K-Means on multi-category spending data, validated against real Channel and Region labels. | Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn | ✅ |
 | 12 | [Credit Card Fraud Detection](./12_Credit_Card_Fraud_Detection/) | Detected rare fraud cases (0.17% of transactions) using ensemble modeling and imbalance-handling techniques, achieving F1=0.86 with a weighted Voting Ensemble. | Python, Scikit-learn, XGBoost, LightGBM, imbalanced-learn, Pandas, Seaborn | ✅ |
 ---
+| 13 | [Server Anomaly Detection](./13_Server_Anomaly_Detection/) | Detected real server incidents in AWS CloudWatch time series data using unsupervised methods (Z-score, STL, Isolation Forest) with a self-built, data-driven threshold finder. | Python, Pandas, Statsmodels, Scikit-learn, Matplotlib, Seaborn | ✅ |
 
 ## 🛠️ Tech Stack
 *   **Languages:** Python
